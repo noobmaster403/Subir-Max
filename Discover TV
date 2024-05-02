@@ -3,16 +3,18 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
-http://xtv.ooo:8080/live/shahz18/18usman/167590.ts
+https://nayeemparvez.my.id/aptv/stream.php?id=29
+#http://xtv.ooo:8080/live/shahz18/18usman/167590.ts
 #http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/48010.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
-
+https://nayeemparvez.my.id/aptv/stream.php?id=27
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=CzTg3BHgF76BfxdAR5Z9VA&expires=1714343033&user=ff39d05fef0749028389f28943b73363
+https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=t_sports
+https://s1.nayeem-parvez.pw/jdotv.php?id=t_sports
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
-
+https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=gazi_tv_hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
-
+https://s1.nayeem-parvez.pw/jdotv.php?id=gazi_tv_hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1
 http://xtv.ooo:8080/live/shahz18/18usman/167575.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1
@@ -124,8 +126,8 @@ http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="Bangla",Desh TV
 #http://cdn01.palki.tv/live/DeshTV-M/index.m3u8
-http://176.119.29.52/live.ts?channelId=093&uid=3319&deviceMac=00:1A:79:50:31:74
-#https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
+#http://176.119.29.52/live.ts?channelId=093&uid=3319&deviceMac=00:1A:79:50:31:74
+https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangla",MY TV
 https://myflixbd.com/0.m3u8
@@ -147,8 +149,6 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png"group-title="Bangla",Anando TV
-#https://bongohub.pw/bioscope.php?cc=ananda-tv
-#https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png"group-title="Bangla",Banglavision
@@ -158,7 +158,8 @@ https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Bangla",Nagorik TV
 #http://startv365.com/9794783213/6955630461/400200127
 #http://xtv.ooo:8080/live/shahz18/18usman/245939.ts
-http://cdn01.palki.tv/live/NagorikTV-M/index.m3u8
+#http://cdn01.palki.tv/live/NagorikTV-M/index.m3u8
+https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=nagorik_tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangla",Bijoy TV
 #https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
@@ -1162,7 +1163,7 @@ https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Disney Channel
 http://xtv.ooo:8080/live/shahz18/18usman/167551.ts
 
-EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Gubbare
